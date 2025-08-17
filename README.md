@@ -9,15 +9,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=536&height=61&lines=I'm+Dhruv+Jindal+and+I'm+a+Software+Developer)](https://git.io/typing-svg)
 ##
 
-<h2 align="left">👩‍💻 About me</h2> <img height="200" align="right" src="https://github.com/dhruvjindal007/dhruvjindal007/blob/main/code.gif"/>
-🚀 Passionate Software Developer with interests in Full Stack Web Development and AI/ML.<br>
-📚 Currently learning advanced concepts in System Design and Cloud Computing.<br>
-🛠️ Experienced in building real-world projects using React, Django, PHP, MySQL, and MATLAB.<br>
-🎯 Goal: To contribute to scalable, impactful, and innovative solutions.<br>
-🔬 I enjoy experimenting with hardware + software projects (Arduino, IoT, RC car, hovercraft).<br>
-💡 Motto: “Code, Create, Contribute.”<br>
----------------------------------------------------------------------------------------------------------
-<p align="left">✨ Always new to coding<br>📚 I'm currently learning Full Stack Development<br>🎯 Goals: Build impactful real-world projects<br>🎲 Fun fact: The first computer virus was created in 1986 and called "Brain".</p> 
+<h2 align="left">👨‍💻 About Me</h2> 
+<img height="200" align="right" src="https://github.com/dhruvjindal007/dhruvjindal007/blob/main/code.gif"/>
+
+🚀 Passionate Software Developer with interests in **Full Stack Development** and **AI/ML**  
+📚 Currently exploring **System Design** and **Cloud Computing (Azure)**  
+🛠️ Skilled in **React, Django, PHP, MySQL, MATLAB, and Arduino**  
+🎯 Goal: To build **scalable & impactful real-world projects**  
+🔬 Love experimenting with **hardware + software** (IoT, RC car, hovercraft)  
+💡 Motto: *“Code, Create, Contribute.”*  
+🎲 Fun fact: The first computer virus was created in **1986** and called *Brain*  
 
 <br>
 
@@ -85,7 +86,7 @@
   <a href="https://www.linkedin.com/in/dhruvjindal007" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo" />
   </a>
-  <a href="mailto:jindal10dhruv@gmai.com" target="_blank">
+  <a href="mailto:jindal10dhruv@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="30" alt="gmail logo" />
   </a>
 </div>
