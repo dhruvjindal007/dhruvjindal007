@@ -1,1 +1,1 @@
-[![MasterHead](banner.png)]([your GitHub link](https://github.com/dhruvjindal007))
+[![MasterHead](banner.png)]((https://github.com/dhruvjindal007))
