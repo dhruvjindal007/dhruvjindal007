@@ -14,7 +14,6 @@
 
 🚀 Passionate Software Developer with interests in **Full Stack Development** and **AI/ML**  
 📚 Currently exploring **System Design** and **Cloud Computing (Azure)**  
-🛠️ Skilled in **React, Django, PHP, MySQL, MATLAB, and Arduino**  
 🎯 Goal: To build **scalable & impactful real-world projects**  
 🔬 Love experimenting with **hardware + software** (IoT, RC car, hovercraft)  
 💡 Motto: *“Code, Create, Contribute.”*  
