@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="450" src="https://github.com/dhruvjindal007/dhruvjindal007/anim.gif"  />
+  <img height="450" src="https://github.com/dhruvjindal007/dhruvjindal007/blob/main/anim.gif"/>
 </div>
 
 <div align="center">
@@ -26,34 +26,55 @@
 <h2 align="left">🛠️ I code with</h2>
 
 <div align="left">
+  <!-- Core Languages -->
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg" height="40" alt="cpp logo" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+
+  <!-- Frontend -->
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
+
+  <!-- Backend -->
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
+
+  <!-- Databases -->
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
+  <!-- Tools -->
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+
+  <!-- Extra -->
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo" />
 </div>
+
 <br>
 
 ##
@@ -64,14 +85,8 @@
   <a href="https://www.linkedin.com/in/dhruvjindal007" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo" />
   </a>
-  <a href="mailto:dhruvjindal007@gmail.com" target="_blank">
+  <a href="mailto:jindal10dhruv@gmai.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="30" alt="gmail logo" />
-  </a>
-  <a href="https://x.com/dhruvjindal007" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="30" alt="twitter logo" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/dhruvjindal007" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="50" height="30" alt="hackerrank logo" />
   </a>
 </div>
 
