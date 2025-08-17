@@ -3,16 +3,22 @@
 </div>
 
 <div align="center">
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey There 👋</h1>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=536&height=61&lines=I'm+Dhruv+Jindal+and+I'm+a+Software+Developer)](https://git.io/typing-svg)
 ##
 
 <h2 align="left">👩‍💻 About me</h2> <img height="200" align="right" src="https://github.com/dhruvjindal007/dhruvjindal007/blob/main/img/code.gif"   />
-
+👨‍💻 About Me
+🚀 Passionate Software Developer with interests in Full Stack Web Development and AI/ML.
+📚 Currently learning advanced concepts in System Design and Cloud Computing.
+🛠️ Experienced in building real-world projects using React, Django, PHP, MySQL, and MATLAB.
+🎯 Goal: To contribute to scalable, impactful, and innovative solutions.
+🔬 I enjoy experimenting with hardware + software projects (Arduino, IoT, RC car, hovercraft).
+💡 Motto: “Code, Create, Contribute.”
 ##
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Full Stack Development<br>🎯 Goals: Build impactful real-world projects<br>🎲 Fun fact: The first computer virus was created in 1986 and called "Brain".</p> 
+<p align="left">✨ Always new to coding<br>📚 I'm currently learning Full Stack Development<br>🎯 Goals: Build impactful real-world projects<br>🎲 Fun fact: The first computer virus was created in 1986 and called "Brain".</p> 
 
 <br>
 
