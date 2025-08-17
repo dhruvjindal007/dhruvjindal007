@@ -16,7 +16,7 @@
 🎯 Goal: To contribute to scalable, impactful, and innovative solutions.<br>
 🔬 I enjoy experimenting with hardware + software projects (Arduino, IoT, RC car, hovercraft).<br>
 💡 Motto: “Code, Create, Contribute.”<br>
-##
+---------------------------------------------------------------------------------------------------------
 <p align="left">✨ Always new to coding<br>📚 I'm currently learning Full Stack Development<br>🎯 Goals: Build impactful real-world projects<br>🎲 Fun fact: The first computer virus was created in 1986 and called "Brain".</p> 
 
 <br>
