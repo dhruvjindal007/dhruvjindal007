@@ -9,8 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=536&height=61&lines=I'm+Dhruv+Jindal+and+I'm+a+Software+Developer)](https://git.io/typing-svg)
 ##
 
-<h2 align="left">👩‍💻 About me</h2> <img height="200" align="right" src="https://github.com/dhruvjindal007/dhruvjindal007code.gif"   />
-👨‍💻 About Me<br>
+<h2 align="left">👩‍💻 About me</h2> <img height="200" align="right" src="https://github.com/dhruvjindal007/dhruvjindal007/blob/main/code.gif"/>
 🚀 Passionate Software Developer with interests in Full Stack Web Development and AI/ML.<br>
 📚 Currently learning advanced concepts in System Design and Cloud Computing.<br>
 🛠️ Experienced in building real-world projects using React, Django, PHP, MySQL, and MATLAB.<br>
